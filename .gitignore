@@ -23,5 +23,6 @@ pnpm-debug.log*
 # jetbrains setting folder
 .idea/
 
-# Obsidian config
-.obsidian/
+# Obsidian workspace file
+**/.obsidian/workspace.json
+**/.obsidian/workspace-mobile.json
