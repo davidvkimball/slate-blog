@@ -1,4 +1,8 @@
-# Slate blog
+# Slate blog (With Astro Composer Suite Obsidian Vault Included)
+
+This is a fork of the Slate Blog Astro theme with the Astro Composer Suite Obsidian Vault.
+
+[Original Readme contents:]
 
 English · [中文](./README-zh_CN.md)
 
