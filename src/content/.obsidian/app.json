@@ -2,5 +2,6 @@
   "attachmentFolderPath": "post/images",
   "useMarkdownLinks": true,
   "alwaysUpdateLinks": true,
-  "newLinkFormat": "relative"
+  "newLinkFormat": "relative",
+  "mobilePullAction": "file-explorer:new-file"
 }
