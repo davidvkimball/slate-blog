@@ -6,6 +6,8 @@ tags:
 pubDate: 2025-08-23
 draft: true
 ---
+![Astro and Obsidian logos stacked vertically with a "+" (plus) sign between them.](images/astro-composer-suite-for-obsidian-1.png)
+
 ## Overview
 
 All plugins, key bindings, and the theme can be customized to your liking, but this is what's on by default. Optimized for use with [Slate Astro theme](https://github.com/SlateDesign/slate-blog).
